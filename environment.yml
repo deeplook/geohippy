@@ -6,11 +6,13 @@ dependencies:
   - python=3.9
   - awkward1
   - datashader
+  - diagrams
   - emacs
   - fastapi
   - folium
   - geemap
   - geopy
+  - graphviz
   - ipycanvas
   - ipycytoscape
   - ipydatagrid
@@ -49,6 +51,7 @@ dependencies:
   - pydeck
   - ray-core
   - seaborn
+  - sphinx
   - streamlit
   - tqdm
   - voila
