@@ -26,6 +26,7 @@ dependencies:
   - leafmap
   - lux-api
   - mamba_gator
+  - myst-parser
   - nodejs
   - xyzspaces
   - here-location-services
@@ -47,11 +48,13 @@ dependencies:
      - jupyterlab-language-pack-uk-UA
      - jupyterlab-language-pack-zh-CN
      - jupyterlab-language-pack-zh-TW
+     - sphinxawesome-theme
   - plotly
   - pydeck
   - ray-core
   - seaborn
   - sphinx
+  - sphinx_rtd_theme
   - streamlit
   - tqdm
   - voila
