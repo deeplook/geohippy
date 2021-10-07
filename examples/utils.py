@@ -19,7 +19,13 @@ def save_credentials_ui(path):
         with open(path, "w") as f:
             f.write(ta.value)
 
-    bt = Button(description=f"Save", button_style="info", layout=Layout(width="80px"))
-    bt.on_click(save)
-    return VBox([ht, ta, bt])
+    def close(button):
+        ui.close()
+
+    save_bt = Button(description=f"Save", icon="save", button_style="info", layout=Layout(width="80px"))
+    close_bt = Button(description="Close", icon="close", button_style="info", layout=Layout(width="80px"))
+    save_bt.on_click(save)
+    close_bt.on_click(close)
+    ui = VBox([ht, ta, HBox([save_bt, close_bt])])
+    return ui
     
