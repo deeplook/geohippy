@@ -51,6 +51,7 @@ dependencies:
      - sphinxawesome-theme
   - plotly
   - pydeck
+  - pyngrok
   - ray-core
   - seaborn
   - sphinx
