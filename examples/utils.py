@@ -1,6 +1,6 @@
 import os
 from os.path import dirname, expanduser, exists
-from ipywidgets import Button, HTML, Layout, Textarea, VBox
+from ipywidgets import Button, HBox, HTML, Layout, Textarea, VBox
 
 
 def save_credentials_ui(path):
