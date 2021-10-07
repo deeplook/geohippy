@@ -11,7 +11,7 @@ def save_credentials_ui(path):
         os.makedirs(dirname(path), exist_ok=True)
     ht = HTML(
         f'Paste here your credentials to go into '
-        '<span style="font-family: monospace">{path}</span>:'
+        f'<span style="font-family: monospace">{path}</span>:'
     )
     ta = Textarea(layout=Layout(height="100px", width="500px"))
 
@@ -28,4 +28,3 @@ def save_credentials_ui(path):
     close_bt.on_click(close)
     ui = VBox([ht, ta, HBox([save_bt, close_bt])])
     return ui
-    
