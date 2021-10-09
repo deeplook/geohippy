@@ -5,6 +5,7 @@ channels:
 dependencies:
   - python=3.9
   - awkward1
+  - cmake
   - datashader
   - diagrams
   - emacs
@@ -58,6 +59,7 @@ dependencies:
   - sphinx_rtd_theme
   - streamlit
   - tqdm
+  - turfpy
   - voila
   - yarn
   - xarray
