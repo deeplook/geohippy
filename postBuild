@@ -1,0 +1,3 @@
+# Javascript/Typescript kernels
+npm install -g tslab
+tslab install
