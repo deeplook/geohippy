@@ -37,6 +37,8 @@ dependencies:
   - here-geotiles=2.4.0
   - here-inspector=2.4.0
   - here-platform=2.4.0
+  - osmnx
+  - overpass
   - pre-commit
   - pip
   - pip:
@@ -53,6 +55,7 @@ dependencies:
   - plotly
   - pydeck
   - pyngrok
+  - pyrosm
   - ray-core
   - seaborn
   - sphinx
