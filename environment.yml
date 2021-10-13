@@ -5,9 +5,11 @@ channels:
 dependencies:
   - python=3.9
   - awkward1
+  - cartopy
   - cmake
   - datashader
   - diagrams
+  - diskcache
   - emacs
   - fastapi
   - folium
