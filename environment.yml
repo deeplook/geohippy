@@ -16,6 +16,7 @@ dependencies:
   - geemap
   - geopy
   - graphviz
+  - holoviews
   - ipycanvas
   - ipycytoscape
   - ipydatagrid
