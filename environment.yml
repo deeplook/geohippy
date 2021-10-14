@@ -68,3 +68,5 @@ dependencies:
   - voila
   - yarn
   - xarray
+  - xeus-cling
+
