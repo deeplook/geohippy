@@ -55,6 +55,7 @@ dependencies:
      - jupyterlab-language-pack-uk-UA
      - jupyterlab-language-pack-zh-CN
      - jupyterlab-language-pack-zh-TW
+     - mapboxgl
      - overpass
      - sphinxawesome-theme
   - plotly
@@ -72,4 +73,3 @@ dependencies:
   - yarn
   - xarray
   - xeus-cling
-
