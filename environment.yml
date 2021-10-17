@@ -16,6 +16,7 @@ dependencies:
   - geemap
   - geopy
   - graphviz
+  - h3-py
   - holoviews
   - ipycanvas
   - ipycytoscape
@@ -27,6 +28,7 @@ dependencies:
   - jupyterlab-geojson
   - jupyterlab-tour
   - jupyter-server-proxy
+  - keplergl
   - leafmap
   - lux-api
   - mamba_gator
