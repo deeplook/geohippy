@@ -62,6 +62,7 @@ dependencies:
   - pydeck
   - pyngrok
   - pyrosm
+  - pysal
   - ray-core
   - seaborn
   - sphinx
