@@ -13,11 +13,13 @@ dependencies:
   - emacs
   - fastapi
   - folium
+  - gdal
   - geemap
   - geopy
   - graphviz
   - h3-py
   - holoviews
+  - imageio
   - ipycanvas
   - ipycytoscape
   - ipydatagrid
