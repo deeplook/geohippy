@@ -6,7 +6,7 @@
 
 **The <span style="text-decoration: underline">Geo Hip</span>ster <span style="text-decoration: underline">Py</span>thonic environment for quick geospatial explorations.**
 
-![image]![Add marker to map](https://github.com/deeplook/geohippy/raw/main/images/cables.gif)
+![image](https://github.com/deeplook/geohippy/raw/main/images/cables.gif)
 
 
 ## Introduction
