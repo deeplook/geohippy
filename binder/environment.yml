@@ -66,6 +66,7 @@ dependencies:
   - pyrosm
   - pysal
   - ray-core
+  - redis-server
   - seaborn
   - sphinx
   - sphinx_rtd_theme
