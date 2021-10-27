@@ -39,11 +39,11 @@ dependencies:
   - xyzspaces
   - here-location-services
   - here-map-widget-for-jupyter
-  - here-content=2.4.0
-  - here-geopandas-adapter=2.4.0
-  - here-geotiles=2.4.0
-  - here-inspector=2.4.0
-  - here-platform=2.4.0
+  - here-content=2.5.0
+  - here-geopandas-adapter=2.5.0
+  - here-geotiles=2.5.0
+  - here-inspector=2.5.0
+  - here-platform=2.5.0
   - osmnx
   - pre-commit
   - pip
