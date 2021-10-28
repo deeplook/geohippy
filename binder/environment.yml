@@ -12,6 +12,7 @@ dependencies:
   - diskcache
   - emacs
   - fastapi
+  - flask
   - folium
   - gdal
   - geemap
@@ -28,6 +29,7 @@ dependencies:
   - jupyterlab
   - jupyterlab-cell-flash
   - jupyterlab-geojson
+  - jupyterlab-link-share
   - jupyterlab-tour
   - jupyter-server-proxy
   - keplergl
