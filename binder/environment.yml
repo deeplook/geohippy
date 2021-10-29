@@ -30,6 +30,7 @@ dependencies:
   - jupyterlab-cell-flash
   - jupyterlab-geojson
   - jupyterlab-link-share
+  - jupyterlab_miami_nights
   - jupyterlab-tour
   - jupyter-server-proxy
   - keplergl
@@ -73,6 +74,7 @@ dependencies:
   - sphinx
   - sphinx_rtd_theme
   - streamlit
+  - theme-darcula
   - tqdm
   - turfpy
   - voila
