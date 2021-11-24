@@ -35,6 +35,7 @@ dependencies:
   - jupyter-server-proxy
   - keplergl
   - leafmap
+  - libspatialite
   - lux-api
   - mamba_gator
   - myst-parser
