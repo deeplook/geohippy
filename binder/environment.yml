@@ -65,6 +65,7 @@ dependencies:
      - mapboxgl
      - overpass
      - sphinxawesome-theme
+     - sphinx-codeautolink
   - plotly
   - pydeck
   - pyngrok
