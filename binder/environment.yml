@@ -24,6 +24,7 @@ dependencies:
   - ipycanvas
   - ipycytoscape
   - ipydatagrid
+  - ipyflex
   - ipygany
   - ipylab
   - jupyterlab
