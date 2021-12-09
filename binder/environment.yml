@@ -27,6 +27,7 @@ dependencies:
   - ipyflex
   - ipygany
   - ipylab
+  - ipyleaflet<0.15
   - jupyterlab
   - jupyterlab-cell-flash
   - jupyterlab-geojson
