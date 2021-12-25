@@ -73,6 +73,7 @@ dependencies:
   - pyngrok
   - pyrosm
   - pysal
+  - pytz
   - ray-core
   - redis-server
   - seaborn
@@ -80,6 +81,7 @@ dependencies:
   - sphinx_rtd_theme
   - streamlit
   - theme-darcula
+  - timezonefinder
   - tqdm
   - turfpy
   - voila
