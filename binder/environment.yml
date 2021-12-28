@@ -69,6 +69,7 @@ dependencies:
      - sphinxawesome-theme
      - sphinx-codeautolink
   - plotly
+  - pycountry
   - pydeck
   - pyngrok
   - pyrosm
